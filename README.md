@@ -1,0 +1,2 @@
+# SIMON GAME
+This project is a web-based implementation of the classic Simon game, built using HTML, CSS, and JavaScript. The Simon game is a memory skill game where the player has to repeat increasingly long sequences of lights and sounds.
